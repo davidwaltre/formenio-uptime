@@ -7,6 +7,10 @@ sites:
     url: $APP_ENDPUNKT
   - name: App (Web-Formulare) - Embed-Endpunkt
     url: $APP_EMBED_ENDPUNKT
+  - name: Backend Server - User-Endpunkt
+    url: $USER_ENDPUNKT
+  - name: Support System
+    url: $SUPPORT_SYSTEM
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
